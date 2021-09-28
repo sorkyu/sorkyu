@@ -11,4 +11,4 @@
 sorkyu/sorkyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![](https://github-readme-stats.vercel.app/api?username=sorkyu&title_color=333&text_color=777&show_icons=true&icon_color=333&hide_border=false)](https://github.com/sorkyu)
+[![Felian](https://github-readme-stats.vercel.app/api?username=sorkyu&bg_color=3a773d&title_color=ffffff&text_color=ffffff&show_icons=true&icon_color=ffffff&hide_border=false)](https://github.com/sorkyu)
